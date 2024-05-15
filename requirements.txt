@@ -1,0 +1,6 @@
+opencv-python
+numpy
+fastai
+fastbook
+mediapipe
+torch
