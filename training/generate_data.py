@@ -13,7 +13,7 @@ video_name = video_full_name.split(".")[0]
 cap = cv2.VideoCapture(video_full_name)
 
 # Directory to save cropped images
-output_dir = "images"
+output_dir = f"images/{video_name}"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
