@@ -125,6 +125,9 @@ def safefall():
                     pass
 
                 predictions_list = []
+            # Draw a rounded rectangle around only the text, not all the frame
+            (text_width, text_height), _ = cv2.getTextSize(output, cv2.FONT_HERSHEY_SIMPLEX, 2, 3)
+            cv2.rectangle(frame, (10, 0), (20 + text_width + 10, 40 + text_height + 10), (0, 0, 0), cv2.FILLED)
             frame = cv2.putText(frame, output, (20, 60), cv2.FONT_HERSHEY_SIMPLEX, 2, color[most_common_prediction], 3, cv2.LINE_AA)
 
         # Save frame to output video
