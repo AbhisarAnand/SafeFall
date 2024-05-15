@@ -26,25 +26,19 @@ SafeFall uses a combination of camera input and OpenCV algorithms to monitor rea
 
 Interested in how SafeFall works under the hood? Check out our code:
 
-[View Code on GitHub](github-link)  // Replace 'github-link' with the actual GitHub repository link.
+[View Code on GitHub](https://github.com/AbhisarAnand/SafeFall)  
 
 ## Team
 
-- **Abhisar Anand** - [LinkedIn](linkedin-profile) | [Twitter](twitter-profile) | [Instagram](instagram-profile)
-- **Mohammad Akif** - [LinkedIn](linkedin-profile) | [Twitter](twitter-profile) | [Instagram](instagram-profile)
-- **Prakhar Verma** - [LinkedIn](linkedin-profile) | [Twitter](twitter-profile) | [Instagram](instagram-profile)
+- **Abhisar Anand** - [LinkedIn](https://www.linkedin.com/in/abhisar-anand/) | [Github](https://github.com/AbhisarAnand) | [Instagram](https://www.instagram.com/abhisaranand/)
+- **Mohammad Akif** - [LinkedIn](https://www.linkedin.com/in/dotcomaki/) | [Github](https://github.com/dotcomaki) | [Instagram](https://www.instagram.com/dotcomaki/)
+- **Prakhar Verma** - [LinkedIn](https://www.linkedin.com/in/iprakharv/) | [Github](https://github.com/iPrakharV) | [Instagram](https://www.instagram.com/iprakharv/)
 
-// Replace 'linkedin-profile', 'twitter-profile', 'instagram-profile' with the actual URLs to their profiles.
+
 
 ## Further Information
 
-For more details about the project or queries, feel free to [email us](mailto:email@example.com).  // Replace 'email@example.com' with the actual team email.
+For more details about the project or queries, feel free to [email us](mailto:connect@iprakharv.com).  
 
-## Links
 
-- [Home](home-link)
-- [About](about-link)
-- [Demo](demo-link)
-
-// Replace 'home-link', 'about-link', 'demo-link' with the actual URLs.
 
