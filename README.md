@@ -16,7 +16,7 @@ Each year, millions of older people—those 65 and older—fall. In fact, more t
 
 The SafeFall demo showcases how our system can identify a simulated fall in a hospital room environment. Notice how the system swiftly recognizes the fall and issues alerts, demonstrating the potential of SafeFall to improve patient care and safety.
 
-![SafeFall Demo](demo-link.jpg)
+![SafeFall Demo](https://github.com/AbhisarAnand/SafeFall/blob/main/assets/demo.gif)
 
 ## How it Works
 
