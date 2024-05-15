@@ -8,7 +8,7 @@ mp_drawing = mp.solutions.drawing_utils
 pose = mp_pose.Pose()
 
 # Create a video capture object
-video_full_name = "normal.mp4"
+video_full_name = "fallen.mp4"
 video_name = video_full_name.split(".")[0]
 cap = cv2.VideoCapture(video_full_name)
 
@@ -59,6 +59,13 @@ while cap.isOpened():
         min_y -= extra_height
         max_x += extra_width
         max_y += extra_height
+
+
+        # Make sure the bounding box coordinates are within the frame
+        min_x = max(0, min_x)
+        min_y = max(0, min_y)
+        max_x = min(frame.shape[1], max_x)
+        max_y = min(frame.shape[0], max_y)
 
         # Draw bounding box around the entire person
         cv2.rectangle(annotated_image, (min_x, min_y), (max_x, max_y), (0, 255, 0), 3)
