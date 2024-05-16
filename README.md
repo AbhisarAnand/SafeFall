@@ -31,7 +31,7 @@ Interested in how SafeFall works under the hood? Check out our code:
 ## Team
 
 - **Abhisar Anand** - [LinkedIn](https://www.linkedin.com/in/abhisar-anand/) | [Github](https://github.com/AbhisarAnand) | [Instagram](https://www.instagram.com/abhisaranand/)
-- **Mohammad Akif** - [LinkedIn](https://www.linkedin.com/in/dotcomaki/) | [Github](https://github.com/dotcomaki) | [Instagram](https://www.instagram.com/dotcomaki/)
+- **Akif M.** - [LinkedIn](https://www.linkedin.com/in/dotcomaki/) | [Github](https://github.com/dotcomaki) | [Instagram](https://www.instagram.com/dotcomaki/)
 - **Prakhar Verma** - [LinkedIn](https://www.linkedin.com/in/iprakharv/) | [Github](https://github.com/iPrakharV) | [Instagram](https://www.instagram.com/iprakharv/)
 
 
